@@ -1,17 +1,16 @@
-# Hamster69591
+👋 Welcome to My GitHub Profile
+Hi there! I'm a passionate learner exploring programming, AI, and technology. I enjoy solving problems, building projects, and diving into topics like math and science.
 
-## Description
+🌱 Current Interests
+AI-powered projects 
+JavaScript
+Programming and automation
+Expanding knowledge in science and technology
+📚 Recent Learning
+JavaScript
+HTML
+CSS
+Jquery
+PovRay
 
-- Username:
-    - Hamster69591
-- Name:
-    - Maximilian Zhu
-- Email:
-    - [maximilian.zhu@loewenrot.de](mailto:maximilian.zhu@loewenrot.de)
-  
-## License
-
-
-## Contact
-
-**Email**: [maximilian.zhu@loewenrot.de](mailto:maximilian.zhu@loewenrot.de)
+Let’s not connect and collaborate on exciting projects! 🌟
