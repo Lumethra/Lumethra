@@ -1,6 +1,6 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Hamster69591's Profile
 
-Hi there! I'm a passionate learner exploring **programming**, **AI**, and **technology**. I enjoy solving problems, building projects, and diving into topics like **math** and **science**.
+Hi there! I'm a passionate learner exploring **programming**, **AI**, and **technology**. I enjoy solving problems and bugs.
 
 ## 🌱 Current Interests
 
