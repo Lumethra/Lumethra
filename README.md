@@ -5,9 +5,9 @@ Hi there! I'm a passionate learner exploring **programming**, **AI**, and **tech
 ## 🌱 Current Interests
 
 - AI-powered projects 
-. JavaScript
-. Programming and automation
-. Expanding knowledge in science and technology
+- JavaScript
+- Programming and automation
+- Expanding knowledge in science and technology
   
 ## 📚 Recent Learning
 
