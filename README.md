@@ -14,7 +14,7 @@ Hi there! I'm a passionate learner exploring **programming**, **AI**, and **tech
 - JavaScript
 - HTML
 - CSS
-- Jquery
-- PovRay
+- jQuery
+- Pov-Ray
 
 Let’s `not` connect and collaborate on exciting projects! 🌟
