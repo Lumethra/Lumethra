@@ -1,4 +1,4 @@
-# 👋 Hamster69591's Profile
+# 👋 Lumethra's Profile
 
 Hi there! I'm a passionate learner exploring **programming**, **AI**, and **technology**. I enjoy solving problems and bugs.
 
