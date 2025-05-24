@@ -36,7 +36,7 @@ Hi there! I'm a passionate learner exploring **programming**, **AI**, and **tech
 
 ## Contribution
 
-![snake gif](https://github.com/NeonGamerBot-QK/NeonGamerBot-QK/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Lumethra/Lumethra/blob/main/public/contribution.svg)
 
 ### ✍️ Random Dev Quote
 
