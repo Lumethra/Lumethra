@@ -25,12 +25,10 @@ Hi there! I'm a passionate learner exploring **programming**, **AI**, and **tech
 
 # GitHub Stats: 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumethra&theme=catppuccin_mocha)
-![](https://github-readme-stats.vercel.app/api?username=Lumethra&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lumethra&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumethra&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lumethra&theme=catppuccin_mocha&utcOffset=8)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neongamerbot&theme=catppuccin_mocha&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumethra&theme=catppuccin_mocha)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Lumethra&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lumethra&theme=catppuccin_mocha&hide_border=false)
 
 # 📊 Hackatime stats:
 
@@ -40,7 +38,7 @@ Hi there! I'm a passionate learner exploring **programming**, **AI**, and **tech
 
 ![snake gif](https://github.com/NeonGamerBot-QK/NeonGamerBot-QK/blob/output/github-contribution-grid-snake.svg)
 
-# ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
