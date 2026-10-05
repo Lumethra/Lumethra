@@ -25,10 +25,10 @@ Hi there! I'm a passionate learner exploring **programming**, **AI**, and **tech
 
 # GitHub Stats: 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumethra&theme=holi&title_color=a6e3a1&text_color=cdd6f4&bg_color=1e1e2e&border_color=cdd6f4&icon_color=74c7ec&chart_color=a6e3a1)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumethra&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Lumethra&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lumethra&theme=catppuccin_mocha&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lumethra&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumethra&theme=holi&title_color=a6e3a1&text_color=cdd6f4&bg_color=1e1e2e&border_color=cdd6f4&icon_color=74c7ec&chart_color=a6e3a1)
 
 # 📊 Hackatime stats:
 
